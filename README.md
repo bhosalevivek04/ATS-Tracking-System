@@ -1,6 +1,7 @@
 # ATS-Tracking-System
 
 Enter your google ai studio api key in env file.
+
 https://aistudio.google.com/app/apikey
 
 ## Run in integrated Terminal
